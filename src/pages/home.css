@@ -1,0 +1,10 @@
+
+.homep ion-content {
+    --background: url(../assets/design.jpg) no-repeat center/cover fixed;
+  }
+.nscc img{
+    display: block;
+    margin-top: 50%;
+  
+  }
+  

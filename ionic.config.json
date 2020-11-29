@@ -1,0 +1,7 @@
+{
+  "name": "NsccCoursemapApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
